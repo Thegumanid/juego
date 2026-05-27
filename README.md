@@ -1,3 +1,2 @@
 # juego
-Juego hecho en python con pygames
-*robado*
+Juego hecho en python con pygames. Copiado
